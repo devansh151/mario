@@ -1,0 +1,28 @@
+html, body, #fk-man {
+  background-color: white;
+  height: 95%;
+}
+
+#fk-man {
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+.board {
+  height: 75vh;
+  width: 100%;
+}
+
+.board table {
+  border-spacing: 0;
+  border: 1px solid grey;
+}
+
+.board table .cell {
+  border-right: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+}
