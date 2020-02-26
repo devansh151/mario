@@ -1,3 +1,5 @@
+Grid game built with object oriented javascript approach.
+
 # Features
 
 * Poison ate indication
