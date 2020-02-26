@@ -1,4 +1,6 @@
-Grid game built with object oriented javascript approach.
+Grid game built with object oriented javascript.
+Built and served using Parcel JS bundler
+
 https://grid-mario.herokuapp.com/
 
 # Features
